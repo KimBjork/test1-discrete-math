@@ -1,0 +1,133 @@
+
+[
+  {
+    "name" : "java.lang.Class",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true
+  },
+  {
+    "name" : "mainpackage.Main",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },
+  {
+    "name" : "com.marcinmoskala.math.tests.NumbersDivisibleTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },
+  {
+    "name" : "com.marcinmoskala.math.tests.PowersetTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+  "name" : "com.marcinmoskala.math.tests.ProductTest",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true,
+  "allDeclaredClasses" : true,
+  "allPublicClasses" : true,
+  "allPublicFields" : true
+  },{
+    "name" : "com.marcinmoskala.math.tests.SublistsBySplittersTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+  "name" : "com.marcinmoskala.math.tests.SetSplitTest",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true,
+  "allDeclaredClasses" : true,
+  "allPublicClasses" : true,
+  "allPublicFields" : true
+  },{
+    "name" : "com.marcinmoskala.math.tests.ProductTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+    "name" : "com.marcinmoskala.math.tests.IterableMultipliationTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+    "name" : "com.marcinmoskala.math.tests.CombinationTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },
+  {
+    "name" : "com.marcinmoskala.math.tests.CombinationWithRepetitionTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+    "name" : "com.marcinmoskala.math.tests.FactorialTest",
+    "allDeclaredConstructors" : true,
+    "allPublicConstructors" : true,
+    "allDeclaredMethods" : true,
+    "allPublicMethods" : true,
+    "allDeclaredClasses" : true,
+    "allPublicClasses" : true,
+    "allPublicFields" : true
+  },{
+  "name" : "com.marcinmoskala.math.tests.PermutationTest",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true,
+  "allDeclaredClasses" : true,
+  "allPublicClasses" : true,
+  "allPublicFields" : true
+  },{
+  "name" : "com.marcinmoskala.math.tests.PowerTest",
+  "allDeclaredConstructors" : true,
+  "allPublicConstructors" : true,
+  "allDeclaredMethods" : true,
+  "allPublicMethods" : true,
+  "allDeclaredClasses" : true,
+  "allPublicClasses" : true,
+  "allPublicFields" : true
+  }
+]
